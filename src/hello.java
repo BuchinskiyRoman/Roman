@@ -5,6 +5,8 @@ public class hello {
 
 
         Scanner scanner = new Scanner(System.in);
+        String name = scanner.next();
+
         System.out.println("Hello world");
     }
 }
