@@ -10,5 +10,7 @@ public class hello {
         System.out.println("вы ввели "+ name);
 
         System.out.println("Hello world");
+
+
     }
 }
